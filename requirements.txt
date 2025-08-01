@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+openai
+openai-whisper
+python-dotenv
+ffmpeg-python
+
